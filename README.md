@@ -3,7 +3,7 @@
  
  <p>👨‍💻Backend Java Developer</p>
  <p>📚Database technologist 4/6</p>
- <p>👜Support technician at Instituto de Controle do Espaço Aéreo (ICEA)</p>
+ <p>💼Support technician at Instituto de Controle do Espaço Aéreo (ICEA)</p>
  
  <H2>About</H2>
  <p>I'm a Java backend developer, focusing on Spring, and at the same time I use frontend and SQL technologies to develop my projects</p>
