@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/igorsuzuki99/igorsuzuki99/blob/output/github-contribution-grid-snake.svg)
 <div>
  <H1>Hi, my name is Igor</H1>
  
