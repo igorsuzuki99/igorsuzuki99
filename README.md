@@ -40,8 +40,8 @@
  <a href="mailto:igorsuzuki.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://github.com/igorsuzuki99">
   <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsuzuki99&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsuzuki99&layout=compact&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsuzuki99&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=stars"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsuzuki99&layout=compact&theme=midnight-purple"/>
   </div>
 </div>
 
