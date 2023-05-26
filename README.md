@@ -41,4 +41,5 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsuzuki99&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsuzuki99&layout=compact&theme=highcontrast"/>
   </div>
- </div>
+</div>
+![Snake animation](https://github.com/igorsuzuki99/igorsuzuki99/blob/output/github-contribution-grid-snake.svg)
