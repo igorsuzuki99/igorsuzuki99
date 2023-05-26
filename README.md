@@ -6,7 +6,7 @@
  <p>💼Support technician at Instituto de Controle do Espaço Aéreo (ICEA)</p>
  
  <H2>About</H2>
- <p>I'm a Java backend developer, focusing on Spring, and at the same time I use frontend and SQL technologies to develop my projects</p>
+ <p>I'm a Java backend developer, focusing on Spring, and at the same time I use frontend and DB technologies to develop my projects</p>
  <p>I have experience using the following technologies:</p>
  <ul>
   <li>Java Web</li>
