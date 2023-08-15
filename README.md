@@ -2,7 +2,7 @@
  <H1>Hi, my name is Igor</H1>
  
  <p>👨‍💻Backend Java Developer</p>
- <p>📚Database technologist 4/6</p>
+ <p>📚Database technologist 5/6</p>
  <p>💼Support technician at Instituto de Controle do Espaço Aéreo (ICEA)</p>
  
  <H2>About</H2>
