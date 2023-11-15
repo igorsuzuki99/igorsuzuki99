@@ -8,9 +8,9 @@
  <p>I'm a Java backend developer, focusing on Spring, and at the same time I use frontend and DB technologies to develop my projects</p>
  <p>I have experience using the following technologies:</p>
  <ul>
-  <li>Java Web</li>
   <li>Spring Framework</li>
-  <li>PostgreSQL, Oracle Database, MySQL</li>
+  <li>Java</li>
+  <li>PostgreSQL, MySQL, Oracle Database</li>
   <li>JavaScript</li>
   <li>HTML, CSS</li>
   <li>Bootstrap</li>
