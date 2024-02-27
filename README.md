@@ -2,7 +2,7 @@
  <H1>Hi, my name is Igor</H1>
  
  <p>👨‍💻Backend Java Developer</p>
- <p>📚Database technologist 5/6</p>
+ <p>📚Database technologist 6/6</p>
  
  <H2>About</H2>
  <p>I'm a Java backend developer, focusing on Spring, and at the same time I use frontend and DB technologies to develop my projects</p>
