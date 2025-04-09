@@ -1,5 +1,5 @@
 <div>
- <H1>Hi, my name is Igor</H1>
+ <H1>Hi, I'm Igor</H1>
  
  <p>👨‍💻Backend Java Developer</p>
  <p>📚Database technologist</p>
