@@ -2,36 +2,29 @@
  <H1>Hi, my name is Igor</H1>
  
  <p>👨‍💻Backend Java Developer</p>
- <p>📚Database technologist 6/6</p>
+ <p>📚Database technologist</p>
  
  <H2>About</H2>
  <p>I'm a Java backend developer, focusing on Spring, and at the same time I use frontend and DB technologies to develop my projects</p>
  <p>I have experience using the following technologies:</p>
  <ul>
-  <li>Spring Framework</li>
   <li>Java</li>
+  <li>Spring Framework</li>
   <li>PostgreSQL, MySQL, Oracle Database</li>
   <li>JavaScript</li>
-  <li>HTML, CSS</li>
-  <li>Bootstrap</li>
-  <li>Vue.js</li>
+  <li>React.js</li>
   <li>Oracle Cloud, AWS</li>
-  <li>Git, GitHub</li>
+  <li>Git</li>
  </ul>
  <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
  
  
  <br><br> 
